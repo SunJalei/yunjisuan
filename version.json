@@ -1,0 +1,6 @@
+{
+  "version": "2.1.0",
+  "frontend_url": "https://.../dist.zip",
+  "exe_url": "https://.../Gemini_Enterprise_New.exe",
+  "changelog": "1. 优化了 Sora 生成速度; 2. 修复了内存泄漏"
+}
