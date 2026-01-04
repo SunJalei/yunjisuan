@@ -26,7 +26,6 @@
       ],
       "video": [
         { "label": "Sora 2", "value": "sora-2" },
-        { "label": "Veo Fast", "value": "veo-3.1-fast-generate-preview" }
       ]
     },
     "openai": {
@@ -37,11 +36,13 @@
         { "label": "GPT-5.2", "value": "gpt-5.2" }
       ],
       "image": [
-        { "label": "Nano banana Fast", "value": "gemini-2.5-flash-image-preview" },
-        { "label": "Nano banana Pro", "value": "gemini-3-pro-image-preview" }
+        { "label": "Nano-banana-Fast", "value": "gemini-2.5-flash-image-preview" },
+        { "label": "Nano-banana-Pro", "value": "gemini-3-pro-image-preview" }
       ],
       "video": [
-        { "label": "Sora 2", "value": "sora-2-all" }
+        { "label": "Sora-2-all", "value": "sora-2-all" },
+        { "label": "Sora-2", "value": "sora-2" }
+        
       ]
     }
   },
@@ -64,15 +65,14 @@
       "aspect_ratios": [
         { "label": "16:9", "value": "16:9" },
         { "label": "9:16", "value": "9:16" },
-        { "label": "21:9", "value": "21:9" },
-        { "label": "1:1", "value": "1:1" }
+        { "label": "720x1280", "value": "720x1280" },
+        { "label": "1280x720", "value": "1280x720" }
       ],
       "resolutions": [
         { "label": "720p", "value": "720p" },
         { "label": "1080p", "value": "1080p" }
       ],
       "durations": [
-        { "label": "5s", "value": 5 },
         { "label": "10s", "value": 10 },
         { "label": "15s", "value": 15 }
       ]
