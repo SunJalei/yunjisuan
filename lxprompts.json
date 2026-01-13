@@ -41,7 +41,8 @@
       ],
       "video": [
         { "label": "Sora-2-all", "value": "sora-2-all" },
-        { "label": "Sora-2", "value": "sora-2" }
+        { "label": "Sora-2", "value": "sora-2" },
+        { "label": "sora-2-landscape", "value": "sora-2-landscape" }
       ]
     }
   },
