@@ -1,6 +1,7 @@
 {
   "version": "1.1.0",
-  "frontend_url": "https://.../dist.zip",
-  "exe_url": "https://gh-proxy.org/https://raw.githubusercontent.com/SunJalei/yunjisuan/master/流星.exe",
-  "changelog": "1. 测试升级"
+  "changelog": "1. 测试升级",
+  "url": "https://gh-proxy.org/https://raw.githubusercontent.com/SunJalei/yunjisuan/master/流星.exe",
+  "force": false,
+  "size": "18MB"
 }
