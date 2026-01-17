@@ -21,8 +21,8 @@
         { "label": "Gemini-2.5-Flash", "value": "gemini-2.5-flash" }
       ],
       "image": [
-        { "label": "Nano banana Pro", "value": "nano-banana-pro" },
-        { "label": "Nano banana Fast", "value": "nano-banana-fast" }
+        { "label": "Nano-banana-Pro", "value": "nano-banana-pro" },
+        { "label": "Nano-banana-Fast", "value": "nano-banana-fast" }
       ],
       "video": [
         { "label": "Sora 2", "value": "sora-2" }
