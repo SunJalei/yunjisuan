@@ -25,7 +25,9 @@
         { "label": "Nano-banana-Fast", "value": "nano-banana-fast" }
       ],
       "video": [
-        { "label": "Sora 2", "value": "sora-2" }
+        { "label": "Sora 2", "value": "sora-2" },
+        { "label": "seedance-2.0", "value": "dreamina_seedance_40_pro" }
+          
       ]
     },
     "openai": {
@@ -73,8 +75,9 @@
         { "label": "1080p", "value": "1080p" }
       ],
       "durations": [
-        { "label": "10s", "value": 10 },
-        { "label": "15s", "value": 15 }
+        { "label": "4", "value": 4 },
+        { "label": "10", "value": 10 },
+        { "label": "15", "value": 15 }
       ]
     }
   }
