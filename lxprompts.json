@@ -26,8 +26,8 @@
       ],
       "video": [
         { "label": "Sora 2", "value": "sora-2" },
-        { "label": "seedance-2.0", "value": "seedance-2.0" },
-        { "label": "seedance-2.0-fast", "value": "seedance-2.0-fast" }
+        { "label": "seedance-2.0", "value": "jimeng-video-seedance-2.0" },
+        { "label": "seedance-2.0-fast", "value": "jimeng-video-seedance-2.0-fast" }
           
           
       ]
