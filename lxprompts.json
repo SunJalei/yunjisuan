@@ -26,7 +26,9 @@
       ],
       "video": [
         { "label": "Sora 2", "value": "sora-2" },
-        { "label": "seedance-2.0", "value": "dreamina_seedance_40_pro" }
+        { "label": "seedance-2.0", "value": "dreamina_seedance_40_pro" },
+        { "label": "seedance-2.0-fast", "value": "dreamina_seedance_40" }
+          
           
       ]
     },
