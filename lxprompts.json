@@ -53,6 +53,7 @@
         { "label": "Sora-2-all", "value": "sora-2-all" },
         { "label": "Sora-2", "value": "sora-2" },
         { "label": "sora-2-landscape", "value": "sora-2-landscape" },
+        { "label": "sora-2-vip-all", "value": "sora-2-vip-all" },
         { "label": "seedance-2.0", "value": "jimeng-video-seedance-2.0" },
         { "label": "seedance-2.0-fast", "value": "jimeng-video-seedance-2.0-fast" }
       ]
