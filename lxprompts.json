@@ -46,8 +46,8 @@
         { "label": "GPT-5.2", "value": "gpt-5.2" }
       ],
       "image": [
-        { "label": "gemini-2.5-flash-image-preview", "value": "gemini-2.5-flash-image-preview" },
-        { "label": "gemini-3-pro-image-preview", "value": "gemini-3-pro-image-preview" }
+        { "label": "gemini-2.5-flash-image", "value": "gemini-2.5-flash-image" },
+        { "label": "gemini-3-pro-image", "value": "gemini-3.0-pro-image" }
       ],
       "video": [
         { "label": "Sora-2-all", "value": "sora-2-all" },
